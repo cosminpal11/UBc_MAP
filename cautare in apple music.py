@@ -5,8 +5,6 @@ import requests
 from bs4 import BeautifulSoup
 import openpyxl
 import pyperclip
-import html
-import chardet
 
 #functia de accesare buton de cautare, introducere text pentru cautare
 def search(src):
